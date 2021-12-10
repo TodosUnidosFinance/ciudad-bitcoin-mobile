@@ -1,50 +1,42 @@
 {
   "project_info": {
-    "project_number": "72279297366",
-    "firebase_url": "https://galoyapp.firebaseio.com",
-    "project_id": "galoyapp",
-    "storage_bucket": "galoyapp.appspot.com"
+    "project_number": "1098873389040",
+    "project_id": "ciudad-bitcoin",
+    "storage_bucket": "ciudad-bitcoin.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:72279297366:android:35666807ae916c5aa75af7",
+        "mobilesdk_app_id": "1:1098873389040:android:baa5b50d816609fdf6a735",
         "android_client_info": {
           "package_name": "com.todosunidos.ciudadbitcoin"
         }
       },
       "oauth_client": [
         {
-          "client_id": "72279297366-pm5ng6a6lrqirbi80kfgbf206uh567go.apps.googleusercontent.com",
+          "client_id": "1098873389040-p17c14p7l2j3l3bfcf2c85shpbat1c1o.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.todosunidos.ciudadbitcoin",
-            "certificate_hash": "e3fc1f6c695772c31c706eea22f66efd680c5c64"
+            "certificate_hash": "076ca45125ab818807ced5e39d4bd51bbe8c950e"
           }
         },
         {
-          "client_id": "72279297366-k1eh0iqfsi3f47c0k18l31l7rbbdcf84.apps.googleusercontent.com",
+          "client_id": "1098873389040-qo9k5tj7lqoneq41odi6a96cajhaggu6.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCttrzic-C_V-mbnZjU0qLhw80f82HZ50k"
+          "current_key": "AIzaSyC_bZ32ySUIWR2rOYqb2aj2wfkWOIx_x80"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "72279297366-k1eh0iqfsi3f47c0k18l31l7rbbdcf84.apps.googleusercontent.com",
+              "client_id": "1098873389040-qo9k5tj7lqoneq41odi6a96cajhaggu6.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "72279297366-feuhvvmtop8ba5j0sgjbu4pubqa6cnfh.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "io.galoy.app"
-              }
             }
           ]
         }
