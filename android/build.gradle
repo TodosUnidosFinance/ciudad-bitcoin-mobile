@@ -22,7 +22,9 @@ buildscript {
         // in the individual module build.gradle files
         
         classpath 'com.google.gms:google-services:4.3.10' // firebase
-        classpath 'com.google.firebase:firebase-crashlytics-gradle:2.1.0'
+        // Add the Crashlytics Gradle plugin
+        classpath 'com.google.firebase:firebase-crashlytics-gradle:2.7.1'
+        
 
         // https://github.com/wix/react-native-notifications/issues/649
    		classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVersion" // add this line

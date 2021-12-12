@@ -15,3 +15,4 @@
 # GeeTest SDK has already been obfuscated, please do not obfuscate it again
 -dontwarn com.geetest.sdk.**
 -keep class com.geetest.sdk.**{*;}
+-keep public class com.horcrux.svg.** {*;}
