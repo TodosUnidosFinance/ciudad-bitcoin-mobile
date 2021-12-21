@@ -15,7 +15,7 @@ import type { ScreenType } from "../../types/jsx"
 
 const styles = EStyleSheet.create({
   bottomView: {
-    backgroundColor: palette.lightBlue,
+    backgroundColor: palette.blueBtc,
     flex: 1,
   },
 
@@ -28,7 +28,7 @@ const styles = EStyleSheet.create({
 
   container: {
     alignItems: "center",
-    backgroundColor: palette.lightBlue,
+    backgroundColor: palette.blueBtc,
     flexGrow: 1,
   },
 

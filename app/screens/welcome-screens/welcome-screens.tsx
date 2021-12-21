@@ -57,23 +57,23 @@ type Props = {
 
 export const WelcomeFirstScreen: ScreenType = ({ navigation }: Props) => (
   <Swiper loop={false} activeDot={<View style={styles.dot} />}>
-    <Screen backgroundColor={palette.lightBlue} statusBar="light-content">
+    <Screen backgroundColor={palette.blueBtc} statusBar="light-content">
       <OnboardingScreen Svg={MascotDollarBitcoin}>
         <Text style={styles.title}>Bitcoin:</Text>
         <Text style={styles.text}>{translate("WelcomeFirstScreen.care")}</Text>
       </OnboardingScreen>
     </Screen>
-    <Screen backgroundColor={palette.lightBlue}>
+    <Screen backgroundColor={palette.blueBtc}>
       <OnboardingScreen Svg={BitcoinBitcoin}>
         <Text style={styles.text}>{translate("WelcomeFirstScreen.bank")}</Text>
       </OnboardingScreen>
     </Screen>
-    <Screen backgroundColor={palette.lightBlue} statusBar="light-content">
+    <Screen backgroundColor={palette.blueBtc} statusBar="light-content">
       <OnboardingScreen Svg={BankShop}>
         <Text style={styles.text}>{translate("WelcomeFirstScreen.before")}</Text>
       </OnboardingScreen>
     </Screen>
-    <Screen backgroundColor={palette.lightBlue} statusBar="light-content">
+    <Screen backgroundColor={palette.blueBtc} statusBar="light-content">
       <OnboardingScreen
         action={async () => {
           navigation.replace("Primary")

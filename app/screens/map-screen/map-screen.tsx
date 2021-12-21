@@ -154,8 +154,8 @@ export const MapScreen: ScreenType = ({ navigation }: Props) => {
         style={styles.map}
         showsUserLocation={true}
         initialRegion={{
-          latitude: 13.496743,
-          longitude: -89.439462,
+          latitude: 10.4675108,  
+          longitude: -68.0248132,
           latitudeDelta: 0.02,
           longitudeDelta: 0.02,
         }}

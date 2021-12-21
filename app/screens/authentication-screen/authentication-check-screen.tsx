@@ -63,7 +63,7 @@ export const AuthenticationCheckScreen: ScreenType = ({ navigation }: Props) => 
   return (
     <Screen
       style={styles.container}
-      backgroundColor={palette.lightBlue}
+      backgroundColor={palette.blueBtc}
       statusBar="light-content"
     >
       <Image style={styles.Logo} source={BitcoinBeachLogo} resizeMode="contain" />

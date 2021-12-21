@@ -39,7 +39,7 @@ const BottomStartES = React.lazy(() => import("./bottom-start-01.es.svg"))
 
 const styles = StyleSheet.create({
   contentContainer: {
-    backgroundColor: palette.lightBlue,
+    backgroundColor: palette.blueBtc,
     flexGrow: 1,
   },
 

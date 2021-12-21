@@ -271,7 +271,7 @@ export const WelcomePhoneInputScreen: ScreenType = ({
               ref={phoneInputRef}
               style={styles.phoneEntryContainer}
               textStyle={styles.textEntry}
-              initialCountry="sv"
+              initialCountry="ve"
               textProps={{
                 autoFocus: true,
                 placeholder: translate("WelcomePhoneInputScreen.placeholder"),

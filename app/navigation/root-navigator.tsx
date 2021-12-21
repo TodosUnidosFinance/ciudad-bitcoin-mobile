@@ -530,7 +530,7 @@ export const PrimaryNavigator: NavigatorType = () => {
           ),
         }}
       />
-      <Tab.Screen
+      {/* <Tab.Screen
         name="Earn"
         component={EarnMapDataInjected}
         options={{
@@ -540,7 +540,7 @@ export const PrimaryNavigator: NavigatorType = () => {
             <Icon name="ios-rocket" size={size} color={color} />
           ),
         }}
-      />
+      /> */}
     </Tab.Navigator>
   )
 }

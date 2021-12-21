@@ -40,7 +40,7 @@ const styles = EStyleSheet.create({
   },
 
   buttonStyle: {
-    backgroundColor: palette.lightBlue,
+    backgroundColor: palette.blueBtc,
     borderRadius: 32,
     width: "224rem",
   },
@@ -85,7 +85,7 @@ const styles = EStyleSheet.create({
   },
 
   quizButtonStyle: {
-    backgroundColor: palette.lightBlue,
+    backgroundColor: palette.blueBtc,
     borderRadius: 32,
     padding: 12,
   },

@@ -12,4 +12,5 @@ export const palette = {
   lightBlue: "#3553FF",
   sky: "#C3CCFF",
   OPACITY: "#202020D0",
+  blueBtc: "#0083d1"
 }

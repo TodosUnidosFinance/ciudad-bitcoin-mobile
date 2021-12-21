@@ -9,7 +9,7 @@ import type { ComponentType } from "../../types/jsx"
 
 const styles = StyleSheet.create({
   version: {
-    color: palette.darkGrey,
+    color: palette.white,
     fontSize: 18,
     marginTop: 18,
     textAlign: "center",

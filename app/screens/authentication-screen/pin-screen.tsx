@@ -240,8 +240,8 @@ export const PinScreen: ScreenType = ({ route, navigation }: Props) => {
   }
 
   return (
-    <Screen style={styles.container} backgroundColor={palette.lightBlue}>
-      <StatusBar backgroundColor={palette.lightBlue} barStyle="light-content" />
+    <Screen style={styles.container} backgroundColor={palette.blueBtc}>
+      <StatusBar backgroundColor={palette.blueBtc} barStyle="light-content" />
       <View style={styles.topSpacer} />
       <View style={styles.circles}>
         {circleComponentForDigit(0)}
